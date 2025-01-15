@@ -49,9 +49,9 @@ The analysis is based on time-series data of U.S. economic indicators, summarize
 
 - **Regression Equation:**
  
-\[
-sp500 = 56.88 + 39.30 \cdot (\text{Interest Rate}) - 5.30 \cdot (\text{Inflation}) + 0.55 \cdot (\text{GDP}) - 111.34 \cdot (\text{Unemployment}) - 62.94 \cdot (\text{Industrial Production})
-\] 
+$$
+   sp500 = 56.88 + 39.30 \cdot (\text{Interest Rate}) - 5.30 \cdot (\text{Inflation}) + 0.55 \cdot (\text{GDP}) - 111.34 \cdot (\text{Unemployment}) - 62.94 \cdot (\text{Industrial Production})
+$$
 
 ## Recommendations  
 
